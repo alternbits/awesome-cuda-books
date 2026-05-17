@@ -52,6 +52,10 @@
   *Tolga Soyata (2018, Chapman & Hall/CRC)*  
   Strong on libraries (cuBLAS, cuFFT, Thrust, NPP) and OpenCL comparison.
 
+- **[CUDA for Deep Learning](https://www.manning.com/books/cuda-for-deep-learning)**
+  *Elliot Arledge (2025, Manning)*
+  From first kernels to Flash Attention — teaches hands-on CUDA optimization for deep learning with Nsight Compute profiling.
+
 ## Advanced / Optimization / Reference
 
 - **[The CUDA Handbook: A Comprehensive Guide to GPU Programming](https://www.amazon.com/CUDA-Handbook-Comprehensive-Guide-Programming/dp/0134852745)**  
@@ -81,6 +85,8 @@
 - **Programming in Parallel with CUDA** (Ansorge, 2022) — see above
 - **Programming Massively Parallel Processors (3rd Ed.)** (Kirk & Hwu, 2022) — see above
 - **GPU Programming with C++ and CUDA** (Motta, 2024) — see above
+
+- **CUDA for Deep Learning** (Arledge, 2025, Manning) — see above
 
 **Notable 2024–2026 titles** (mostly specialized or self-published but frequently appearing in searches):
 - *CUDA C++ Optimization* – David Spuler (2024) — kernel performance & memory tuning
