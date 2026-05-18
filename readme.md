@@ -40,7 +40,7 @@
 
 ## Practical & Hands-on Guides
 
-- **[Programming in Parallel with CUDA: A Practical Guide](https://www.cambridge.org/core/books/programming-in-parallel-with-cuda/9781108855273)**  
+- **[Programming in Parallel with CUDA: A Practical Guide](https://www.cambridge.org/core/books/programming-in-parallel-with-cuda/C43652A69033C25AD6933368CDBE084C)**  
   *Richard Ansorge (2022, Cambridge University Press)*  
   Real-world scientific examples (stencils, Monte Carlo, imaging). Excellent modern C++ coverage.
 
@@ -95,17 +95,22 @@
 
 ## Contributing
 
+Contributions are welcome! See **[contributing.md](contributing.md)** for the full guide.
+
+Quick version:
+
 - Add a new high-quality book? Open a PR with title, authors, year, short description, and link.
 - Preference for books **post-2018** or still relevant classics.
 - Only include books with substantial code/examples and good reviews.
 
 ## Related Awesome Lists
 
-- [awesome-cuda](https://github.com/vincentherrmann/awesome-cuda) — tools & libraries
-- [awesome-gpu](https://github.com/antonmks/awesome-gpu)
+- [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA) — tools & libraries
+- [Awesome-GPU](https://github.com/Jokeren/Awesome-GPU)
 - [awesome-parallel-computing](https://github.com/rossant/awesome-parallel-computing)
 
 ---
 
-**Star the repo** if this helps you write faster kernels! 🚀  
-Fully expanded after a full web search — this is now the most complete public CUDA books list.
+**Star the repo** if this helps you write faster kernels! 🚀
+
+Inspired by [GoBooks](https://github.com/dariubs/GoBooks).
