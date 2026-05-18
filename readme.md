@@ -1,6 +1,7 @@
 # Awesome CUDA Books
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 > A curated list of **every major book** on CUDA programming — beginner to advanced, C++/Python, architecture, optimization, and the latest 2024–2026 releases.  
 > Focused on practical, high-quality resources for NVIDIA GPU parallel computing.
 
@@ -114,3 +115,7 @@ Quick version:
 **Star the repo** if this helps you write faster kernels! 🚀
 
 Inspired by [GoBooks](https://github.com/dariubs/GoBooks).
+
+## License
+
+[MIT](LICENSE) © [Dariush Abbasi](https://github.com/dariubs) & [Altern](https://altern.ai)
