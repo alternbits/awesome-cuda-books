@@ -5,7 +5,6 @@
 > A curated list of **every major book** on CUDA programming — beginner to advanced, C++/Python, architecture, optimization, and the latest 2024–2026 releases.  
 > Focused on practical, high-quality resources for NVIDIA GPU parallel computing.
 
-**Last updated:** May 2026  
 **Contributions welcome!** See [Contributing](#contributing).
 
 ## Contents
