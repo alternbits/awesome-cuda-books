@@ -97,7 +97,9 @@
 - *Mastering CUDA C++ Programming* – Brett Neutreon (2024) / Toby Webber (2025) — comprehensive C++ guides
 - *High-Performance Computing with C++26 and CUDA 13* – William M. Crutcher (2026)
 
-> **Pro tip:** CUDA changes fast. Always pair books with the free official **[CUDA C++ Programming Guide (v13.x, 2026)](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)**.
+> **Pro tip:** CUDA changes fast. Always pair books with the free official **[CUDA C++ Programming Guide (v13.x, 2026)](http://docs.nvidia.com/cuda/cuda-programming-guide)**.
+
+
 
 ## Contributing
 
